@@ -1,0 +1,17 @@
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\obj\Debug\SudokuSolver.test.unit.csprojAssemblyReference.cache
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\obj\Debug\SudokuSolver.test.unit.csproj.CoreCompileInputs.cache
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\SudokuSolver.test.unit.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\SudokuSolver.test.unit.pdb
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\SudokuSolver.exe
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\SudokuSolver.pdb
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\SudokuSolver.exe.config
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\obj\Debug\SudokuSolver.test.unit.csproj.CopyComplete
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\obj\Debug\SudokuSolver.test.unit.dll
+C:\Users\AEDIN\source\repos\SudokuSolver\SudokuSolver.test.unit\obj\Debug\SudokuSolver.test.unit.pdb
